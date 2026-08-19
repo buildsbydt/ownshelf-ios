@@ -8,19 +8,9 @@ Your books never leave the phone. Own Shelf has no account, no cloud, and no tra
 
 ## Screenshots
 
-![Library](screenshots/screenshots/IMG_7839.png)
-![Reader](screenshots/screenshots/IMG_7840.png)
-![Look and feel](screenshots/screenshots/IMG_7841.PNG)
-![Chapters](screenshots/screenshots/IMG_7842.PNG)
-![Bookmarks](screenshots/screenshots/IMG_7843.PNG)
-![Empty state](screenshots/screenshots/IMG_7837.png)
-
-- **Library:** covers pulled from each book, plus a daily reading streak
-- **Reader:** continuous auto-scroll with play/pause and a words-per-minute slider
-- **Look and feel:** light, sepia, or dark; three fonts; text size from small to large
-- **Chapters:** table of contents split into front matter and the story
-- **Bookmarks:** save a spot, jump back, or delete
-- **Empty state:** one clear action, import your first EPUB
+<p align="center">
+  <img src="screenshots/reader.png" width="360" alt="Reader showing Alice in Wonderland at 200 words per minute">
+</p>
 
 ## The problem
 
