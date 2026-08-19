@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/d8c6010d-4e27-4e14-95e1-48f91f990574
 
 ## The problem
 
-Most ebook apps are built for tapping through pages which is cumbersome when you want to read-hands free. You also have no indication of your reading-pace.
+Most ebook apps are built for tapping through pages which is cumbersome when you want to read-hands free. You also have no indication of your reading pace.
 
 Manual page turn readers also tend to hide the book behind accounts, stores, and recommendations. I wanted something quieter: open a file I already own, set a pace, and let the text move.
 
