@@ -60,7 +60,7 @@ So Own Shelf saves a character position. Restoring it is the hard part.
 
 During step 2, the scroll view briefly reports the *start* of the chapter. If you save that, you overwrite the real position, and the next open dumps you at the chapter heading. That is what happened in TestFlight.
 
-The fix was to stop saving while a jump is settling and then nudge from the chapter start once the chapter is on screen, instead of trusting guessed pixel positions for chapters that have never been drawn. The mapping between characters and screen positions lives in the reader's layout math (`sectionMetrics`).
+The fix was to stop saving while a jump is settling and then nudge from the chapter start once the chapter is on screen, instead of trusting guessed pixel positions for chapters that have never been drawn. Character positions map to the screen through the reader's layout math.
 
 ## What's next
 
