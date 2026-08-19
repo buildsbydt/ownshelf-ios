@@ -6,6 +6,10 @@ Play books, or just scroll.
 
 Your books never leave the phone. Own Shelf has no account, no cloud, and no tracking. [Privacy policy](https://buildsbydt.github.io/ownshelf-epub-reader/) · [Support](mailto:buildsbydt@proton.me)
 
+## Demo
+
+https://github.com/user-attachments/assets/d8c6010d-4e27-4e14-95e1-48f91f990574
+
 ## Screenshots
 
 <p align="center">
