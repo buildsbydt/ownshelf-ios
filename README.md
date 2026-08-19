@@ -10,12 +10,6 @@ Your books never leave the phone. Own Shelf has no account, no cloud, and no tra
 
 https://github.com/user-attachments/assets/d8c6010d-4e27-4e14-95e1-48f91f990574
 
-## Screenshots
-
-<p align="center">
-  <img src="screenshots/reader.png" width="360" alt="Reader showing Alice in Wonderland at 200 words per minute">
-</p>
-
 ## The problem
 
 Most ebook apps are built for tapping through pages which is cumbersome when you want to read-hands free. You also have no indication of your reading-pace.
