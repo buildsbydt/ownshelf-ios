@@ -4,6 +4,8 @@ An iPhone app that opens EPUB books and scrolls the text at a steady pace, like 
 
 Play books, or just scroll.
 
+[Download on the App Store](https://apps.apple.com/app/id6793436024)
+
 Your books never leave the phone. Own Shelf has no account, no cloud, and no tracking. [Privacy policy](https://buildsbydt.github.io/ownshelf-epub-reader/) · [Support](mailto:buildsbydt@proton.me)
 
 ## Demo
